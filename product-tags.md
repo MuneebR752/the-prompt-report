@@ -38,10 +38,8 @@
     - Chiffon Hijab/Scarf [hijab-scarf, chiffon-hijab-scarf]
     - Instant Chiffon Hijab w/Cap [hijab-scarf, instant-chiffon-hijab-w-cap]
     - Instant Chiffon Hijab w/ magnet [hijab-scarf, instant-chiffon-hijab-w-magnet]
-    - Sparkling Chiffon Hijab [hijab-scarf, sparkling-chiffon-hijab]
-    - Shimmer Chiffon Scarf [hijab-scarf, shimmer-chiffon-scarf]
-    - Chiffon Scarf with Golden Edge [hijab-scarf, chiffon-scarf-with-golden-edge]
-    - Woven Fancy Scarf with Gemstones [hijab-scarf, woven-fancy-scarf-with-gemstones]
+    - Fancy Hijabs [hijab-scarf, fancy-hijabs]
+    - Printed Hijabs [hijab-scarf, printed-hijabs]
     - Hijab & Scarf Kids-Girls [hijab-scarf, hijab-scarf-kids-girls]
   </details>
   <details>
