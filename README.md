@@ -54,11 +54,11 @@
 </details>
 
 <details>
-  <summary>Thobes/Juba</summary>
+  <summary>Thobes/Jubba</summary>
 
-  - Thobes/Jubba-Gents [thobes-juba-gents]
-  - Thobes/Juba-Teens [thobes-juba-teens]
-  - Thobes/Juba-Kids [thobes-juba-kids]
+  - Thobes/Jubba-Gents [thobes-jubba-gents]
+  - Thobes/Jubba-Teens [thobes-jubba-teens]
+  - Thobes/Jubba-Kids [thobes-jubba-kids]
   - Middle Eastern-Head Accessories [middle-eastern-head-accessories]
 </details>
 
