@@ -65,7 +65,52 @@
 <details>
   <summary>Ladies</summary>
 
-  <details>
+  - Kameez Shalwar [kameez-shalwar]
+  - Kurta & Dresses [kurta-dresses]
+  - Trousers & Pants [trousers-pants]
+  - Duppata/Shawls [duppata-shawls]
+  - Bridal & Fancy Dresses [bridal-fancy-dresses]
+  - Abayas & Modest Wear Ladies [abayas-ladies]
+  - Cord Set [cord-set]
+</details>
+
+<details>
+  <summary>Gents</summary>
+
+  - Kameez Shalwar [kameez-shalwar]
+  - Kurta/Kameez 1pc [kurta-kameez-1pc]
+  - Trousers/Shalwar/Pants [trousers-shalwar-pants]
+  - Formal & Wedding Wear [formal-wedding-wear]
+  - Head Accessories for Men [head-accessories-for-men]
+  - Waist Coats [waist-coats]
+  - Shawls [shawls]
+</details>
+
+<details>
+    <summary>Kids Boys (Collection)</summary>
+
+      - Kameez Shalwar [kameez-shalwar]
+      - Kurta/Kameez 1pc [kurta-kameez-1pc]
+      - Trousers/Pants/Shalwar [trousers-pants-shalwar]
+      - Formal & Wedding Wear [formal-wedding-wear]
+      - Head Accessories for Boys [head-accessories-for-boys]
+      - Waist Coats [waist-coats]
+      - Shawls [shawls]
+  </details>
+
+<details>
+  <summary>Teen Boys (Collection)</summary>
+
+    - Kameez Shalwar [kameez-shalwar]
+    - Kurta/Kameez 1pc [kurta-kameez-1pc]
+    - Trousers/Pants/Shalwar [trousers-pants-shalwar]
+    - Formal & Wedding Wear [formal-wedding-wear]
+    - Head Accessories [head-accessories]
+    - Waist Coats [waist-coats]
+    - Shawls [shawls]
+  </details>
+
+   <details>
     <summary>Kids Girls (Collection)</summary>
 
     - Kameez Shalwar [kameez-shalwar]
@@ -90,48 +135,3 @@
     - Abayas & Modest Wear Teen Girls [abayas-teens]
     - Cord Set [cord-set]
   </details>
-
-  - Kameez Shalwar [kameez-shalwar]
-  - Kurta & Dresses [kurta-dresses]
-  - Trousers & Pants [trousers-pants]
-  - Duppata/Shawls [duppata-shawls]
-  - Bridal & Fancy Dresses [bridal-fancy-dresses]
-  - Abayas & Modest Wear Ladies [abayas-ladies]
-  - Cord Set [cord-set]
-</details>
-
-<details>
-  <summary>Gents</summary>
-
-  <details>
-    <summary>Kids Boys (Collection)</summary>
-
-      - Kameez Shalwar [kameez-shalwar]
-      - Kurta/Kameez 1pc [kurta-kameez-1pc]
-      - Trousers/Pants/Shalwar [trousers-pants-shalwar]
-      - Formal & Wedding Wear [formal-wedding-wear]
-      - Head Accessories for Boys [head-accessories-for-boys]
-      - Waist Coats [waist-coats]
-      - Shawls [shawls]
-  </details>
-
-<details>
-  <summary>Teen Boys (Collection)</summary>
-
-    - Kameez Shalwar [kameez-shalwar]
-    - Kurta/Kameez 1pc [kurta-kameez-1pc]
-    - Trousers/Pants/Shalwar [trousers-pants-shalwar]
-    - Formal & Wedding Wear [formal-wedding-wear]
-    - Head Accessories [head-accessories]
-    - Waist Coats [waist-coats]
-    - Shawls [shawls]
-  </details>
-
-  - Kameez Shalwar [kameez-shalwar]
-  - Kurta/Kameez 1pc [kurta-kameez-1pc]
-  - Trousers/Shalwar/Pants [trousers-shalwar-pants]
-  - Formal & Wedding Wear [formal-wedding-wear]
-  - Head Accessories for Men [head-accessories-for-men]
-  - Waist Coats [waist-coats]
-  - Shawls [shawls]
-</details>
