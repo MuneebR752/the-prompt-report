@@ -87,7 +87,7 @@
 </details>
 
 <details>
-    <summary>Kids Boys (Collection)</summary>
+    <summary>Kids Boys</summary>
 
       - Kameez Shalwar [kameez-shalwar]
       - Kurta/Kameez 1pc [kurta-kameez-1pc]
@@ -99,7 +99,7 @@
   </details>
 
 <details>
-  <summary>Teen Boys (Collection)</summary>
+  <summary>Teen Boys</summary>
 
     - Kameez Shalwar [kameez-shalwar]
     - Kurta/Kameez 1pc [kurta-kameez-1pc]
@@ -111,7 +111,7 @@
   </details>
 
    <details>
-    <summary>Kids Girls (Collection)</summary>
+    <summary>Kids Girls</summary>
 
     - Kameez Shalwar [kameez-shalwar]
     - Kurta/ Dresses [kurta-dresses]
@@ -125,7 +125,7 @@
 
 
   <details>
-    <summary>Teen Girls (Collection)</summary>
+    <summary>Teen Girls</summary>
 
     - Kameez Shalwar [kameez-shalwar]
     - Fancy Dresses [fancy-dresses]
